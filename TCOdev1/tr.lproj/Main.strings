@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; configuration.title = "LEFT"; ObjectID = "HsN-Xm-6fJ"; */
+"HsN-Xm-6fJ.configuration.title" = "LEFT";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HsN-Xm-6fJ"; */
+"HsN-Xm-6fJ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Which one is your favorite?"; ObjectID = "MJg-zz-00U"; */
+"MJg-zz-00U.text" = "Which one is your favorite?";
+
+/* Class = "UILabel"; text = "Hint: try not to use 'NOT SURE!' button."; ObjectID = "Ri1-ma-KKG"; */
+"Ri1-ma-KKG.text" = "Hint: try not to use 'NOT SURE!' button.";
+
+/* Class = "UIButton"; configuration.title = "NOT SURE!"; ObjectID = "Uw6-pZ-6te"; */
+"Uw6-pZ-6te.configuration.title" = "NOT SURE!";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Uw6-pZ-6te"; */
+"Uw6-pZ-6te.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "To play the game, pick one of the three choices!"; ObjectID = "YHf-RO-ENf"; */
+"YHf-RO-ENf.text" = "To play the game, pick one of the three choices!";
+
+/* Class = "UIButton"; configuration.title = "RIGHT"; ObjectID = "Yma-5n-7Kc"; */
+"Yma-5n-7Kc.configuration.title" = "RIGHT";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Yma-5n-7Kc"; */
+"Yma-5n-7Kc.normalTitle" = "Button";
